@@ -1,0 +1,26 @@
+.product {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 15px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+h2 {
+  font-size: 1.25rem;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 5px;
+  color: #555;
+  font-size: 0.9rem;
+}
